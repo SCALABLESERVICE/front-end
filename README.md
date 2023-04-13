@@ -1,3 +1,12 @@
+BITS Scalable Services Assignment By:
+
+PRASHANT KUMAR RAI 2021mt93525@wilp.bits-pilani.ac.in
+ANKITA NASIPURI 2021mt93526@wilp.bits-pilani.ac.in
+ATUL SHARMA 2021mt93633@wilp.bits-pilani.ac.in
+VIDIT NAGPAL 2021mt93557@wilp.bits-pilani.ac.in
+
+
+
 [![Build Status](https://travis-ci.org/microservices-demo/front-end.svg?branch=master)](https://travis-ci.org/microservices-demo/front-end)
 [![](https://images.microbadger.com/badges/image/weaveworksdemos/front-end.svg)](http://microbadger.com/images/weaveworksdemos/front-end "Get your own image badge on microbadger.com")
 [![Actions Status](https://github.com/microservices-demo/front-end/workflows/ci/badge.svg)](https://github.com/microservices-demo/front-end/workflows/ci/badge.svg)
